@@ -9,4 +9,3 @@ Back End
 - Belajar Node JS
 - Belajar My SQL
 
-- Belajar Peton
