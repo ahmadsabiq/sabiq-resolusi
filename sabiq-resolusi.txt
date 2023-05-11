@@ -7,3 +7,4 @@ Front End
 
 Back End
 - Belajar Node JS
+- Belajar My SQL
