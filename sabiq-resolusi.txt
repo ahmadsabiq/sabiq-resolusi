@@ -1,5 +1,9 @@
 Sabiq Resolusi
+Front End
 - Belajar PHP
 - Belajar Laravel
 - Belajar Tailwind CSS
 - Belajar react JS
+
+Back End
+- Belajar Node JS
