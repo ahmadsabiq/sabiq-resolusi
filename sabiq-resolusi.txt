@@ -1,0 +1,5 @@
+Sabiq Resolusi
+- Belajar PHP
+- Belajar Laravel
+- Belajar Tailwind CSS
+- Belajar react JS
